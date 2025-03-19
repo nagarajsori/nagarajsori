@@ -39,6 +39,26 @@ I am open to connect and collaborate. Let's create something meaningful together
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
+## 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" style="background-color: #1e1e1e; border-radius: 12px; padding: 10px; margin: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" style="background-color: #1e1e1e; border-radius: 12px; padding: 10px; margin: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" style="background-color: #1e1e1e; border-radius: 12px; padding: 10px; margin: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" style="background-color: #1e1e1e; border-radius: 12px; padding: 10px; margin: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" style="background-color: #1e1e1e; border-radius: 12px; padding: 10px; margin: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" style="background-color: #1e1e1e; border-radius: 12px; padding: 10px; margin: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" style="background-color: #1e1e1e; border-radius: 12px; padding: 10px; margin: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" style="background-color: #1e1e1e; border-radius: 12px; padding: 10px; margin: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" style="background-color: #1e1e1e; border-radius: 12px; padding: 10px; margin: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40" style="background-color: #1e1e1e; border-radius: 12px; padding: 10px; margin: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" style="background-color: #1e1e1e; border-radius: 12px; padding: 10px; margin: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" style="background-color: #1e1e1e; border-radius: 12px; padding: 10px; margin: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" style="background-color: #1e1e1e; border-radius: 12px; padding: 10px; margin: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" style="background-color: #1e1e1e; border-radius: 12px; padding: 10px; margin: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" style="background-color: #1e1e1e; border-radius: 12px; padding: 10px; margin: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40" style="background-color: #1e1e1e; border-radius: 12px; padding: 10px; margin: 5px;" />
+</p>
 
 <!--
 **nagarajsori/nagarajsori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
