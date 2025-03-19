@@ -43,9 +43,6 @@ I am open to connect and collaborate. Let's create something meaningful together
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=nagarajsori&show_icons=true&theme=dark)
-
-## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nagarajsori&show_icons=true&theme=radical" alt="GitHub Stats" height="180px"/>
