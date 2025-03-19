@@ -1,6 +1,9 @@
 ![image](https://github.com/user-attachments/assets/e0e1b026-2d80-4505-b912-a10015317268)
 ## Hi 👋 I am Nagaraj
 
+Passionate developer with a strong foundation in software development and a proactive approach to learning beyond traditional coursework. Skilled at translating theoretical knowledge into impactful real-world applications. Eager to gain diverse professional experiences and contribute meaningfully to both society and the organization through my expertise.
+
+I am open to connect and collaborate. Let's create something meaningful together!!
 <!--
 **nagarajsori/nagarajsori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
