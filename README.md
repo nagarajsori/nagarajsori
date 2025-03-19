@@ -3,6 +3,10 @@
 
 Passionate developer with a strong foundation in software development and a proactive approach to learning beyond traditional coursework. Skilled at translating theoretical knowledge into impactful real-world applications. Eager to gain diverse professional experiences and contribute meaningfully to both society and the organization through my expertise.
 
+## Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nagaraj-sori-a5b903248)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nagarajsori9538@gmail.com)
+
 I am open to connect and collaborate. Let's create something meaningful together!!
 <!--
 **nagarajsori/nagarajsori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
