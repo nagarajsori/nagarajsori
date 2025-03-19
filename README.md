@@ -8,6 +8,10 @@ Passionate developer with a strong foundation in software development and a proa
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nagarajsori9538@gmail.com)
 
 ## 🌐 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nagaraj-sori-a5b903248)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nagarajsori9538@gmail.com)
+
+## 🌐 Connect with me
 
 <p align="left">
     <a href="https://www.linkedin.com/in/nagaraj-sori-a5b903248" target="_blank">
