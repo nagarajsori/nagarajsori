@@ -12,6 +12,15 @@ Passionate developer with a strong foundation in software development and a proa
 
 I am open to connect and collaborate. Let's create something meaningful together!!
 
+## 🚀 Technical Skills
+### Programming Languages
+
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
 ## 🚀 Technologies and Tools
 
 <p align="left">
