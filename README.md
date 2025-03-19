@@ -37,6 +37,22 @@ I am open to connect and collaborate. Let's create something meaningful together
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
 </p>
 
+## 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" style="background-color: #1e1e1e; border-radius: 16px; padding: 10px; margin: 5px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50" style="background-color: #1e1e1e; border-radius: 16px; padding: 10px; margin: 5px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" height="50" style="background-color: #1e1e1e; border-radius: 16px; padding: 10px; margin: 5px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" height="50" style="background-color: #1e1e1e; border-radius: 16px; padding: 10px; margin: 5px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="50" height="50" style="background-color: #1e1e1e; border-radius: 16px; padding: 10px; margin: 5px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="50" height="50" style="background-color: #1e1e1e; border-radius: 16px; padding: 10px; margin: 5px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="50" height="50" style="background-color: #1e1e1e; border-radius: 16px; padding: 10px; margin: 5px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" height="50" style="background-color: #1e1e1e; border-radius: 16px; padding: 10px; margin: 5px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="50" height="50" style="background-color: #1e1e1e; border-radius: 16px; padding: 10px; margin: 5px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="50" height="50" style="background-color: #1e1e1e; border-radius: 16px; padding: 10px; margin: 5px;" />
+</p>
+
+
 <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
