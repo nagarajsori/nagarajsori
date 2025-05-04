@@ -46,7 +46,7 @@ I am open to connect and collaborate. Let's create something meaningful together
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nagarajsori&show_icons=true&theme=radical" alt="GitHub Stats" height="180px"/>
-  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagarajsori&layout=compact&langs_count=8&theme=radical" alt="Most Used Languages" height="180px"/>-->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagarajsori&layout=compact&langs_count=8&theme=radical" alt="Most Used Languages" height="180px"/>
 </p>
 
 
